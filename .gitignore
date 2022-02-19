@@ -1,1 +1,6 @@
+build-*
+!build*.py
+*.o
+local_configurations.py
+html/
 *.pro.user
